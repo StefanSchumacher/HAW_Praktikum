@@ -8,7 +8,7 @@ import java.util.*;
 public class WebShop {
 
 	/**
-	 * ...
+	 * ArrayList zur Repräsentation der Kundenliste
 	 */
 	public ArrayList<Customer> customerList = new ArrayList<Customer>();
 	
